@@ -22,6 +22,9 @@ Bike sales data which is used for analysis is collected from Kaggle.
 * Purchased bike : Whether purchased or not
 
 
+
+
+
 As a Data Analyst, to identify the factors that can influence bike sales following steps are performed
 
 ## Data Cleaning and Data Manipulation
