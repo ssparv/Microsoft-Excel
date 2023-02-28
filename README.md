@@ -7,7 +7,7 @@ their marketing strategies based on that.
 Bike sales data which is used for analysis is collected from Kaggle.
 
 # Attributes
-Id : Unique ID to identify each customer
+*Id : Unique ID to identify each customer
 Marital status : Whether Married or Single
 Gender : Whether Male or Female
 Income : Income of the customer in US dollars
