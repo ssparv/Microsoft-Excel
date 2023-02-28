@@ -3,10 +3,10 @@
 A bike selling company wanted to find what all are the key factors that influence the bike sales and the company wanted to tailor 
 their marketing strategies based on that.
 
-# About Data:
+## About Data:
 Bike sales data which is used for analysis is collected from Kaggle.
 
-# Attributes
+## Attributes
 * Id : Unique ID to identify each customer
 * Marital status : Whether Married or Single
 * Gender : Whether Male or Female
@@ -52,13 +52,13 @@ As a Data Analyst, to identify the factors that can influence bike sales followi
       
 ## Recommendations
 
-### Target Middle-aged Customers:
+#### Target Middle-aged Customers:
 * Since middle-aged customers purchased the most bikes, the company could focus their create marketing campaigns that target middle age, emphasizing the benefits of owning a bike for fitness and commuting
-### Offer Discounts for Short Commute Distances:
+#### Offer Discounts for Short Commute Distances:
 * As customers who had to commute 0-5 miles were more likely to purchase bikes, the company could offer discounts on bikes for customers who have a short commute distance. This could  attract more customers who are looking for a cost-effective mode of transportation.
-### Focus on Female Customers:
+#### Focus on Female Customers:
 * Since female customers in clerical and skilled manual occupations were more likely to purchase bikes than male customers, the company could create marketing campaigns that target female customers. This could include highlighting bikes that are designed specifically for women, promoting the health and wellness benefits of cycling, and showcasing female cyclists in marketing materials.
-### Improve Marketing Strategies in Regions with Low Sales:
+#### Improve Marketing Strategies in Regions with Low Sales:
 * In regions with low sales, the company could also consider partnering with local bike shops or sponsoring cycling events to increase brand awareness and drive sales.
 
 
