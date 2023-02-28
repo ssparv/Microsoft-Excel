@@ -3,7 +3,7 @@
 A bike selling company wanted to find what all are the key factors that influence the bike sales and the company wanted to tailor 
 their marketing strategies based on that.
 
-![Dashboard](https://user-images.githubusercontent.com/82135370/221946358-0d3071e2-3fcd-49a2-8480-a2c1b11fbc3a.png)
+![Bike Sales Dashboard](https://user-images.githubusercontent.com/82135370/221947325-614d8ab1-e223-4bc2-b9f0-d410d83e92d0.png)
 
 
 ## About Data:
@@ -29,6 +29,9 @@ Bike sales data which is used for analysis is collected from Kaggle.
 
 
 As a Data Analyst, to identify the factors that can influence bike sales following steps are performed
+
+## Tool Used
+Microsoft Excel
 
 ## Data Cleaning and Data Manipulation
 * Removed rows which had missing values 
