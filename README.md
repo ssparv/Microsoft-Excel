@@ -35,7 +35,7 @@ Microsoft Excel
 
 ## Data Cleaning and Data Manipulation
 * Removed rows which had missing values 
-* Check datatype of each column
+* Checked datatype of each column
 * Removed duplicate values from the data
 * Replaced values in the columns like Gender and Marital Status for easy understanding
 * Added a column named 'Age Bracket', by using Nested IF condition
@@ -62,9 +62,9 @@ Microsoft Excel
 ## Recommendations
 
 #### Target Middle-aged Customers:
-* Since middle-aged customers purchased the most bikes, the company could focus their create marketing campaigns that target middle age, emphasizing the benefits of owning a bike for fitness and commuting
+* Since middle-aged customers purchased most bikes, the company could focus their marketing campaigns on middle age, emphasizing the benefits of owning a bike for fitness and commuting
 #### Offer Discounts for Short Commute Distances:
-* As customers who had to commute 0-5 miles were more likely to purchase bikes, the company could offer discounts on bikes for customers who have a short commute distance. This could  attract more customers who are looking for a cost-effective mode of transportation.
+* As customers who had to commute 0-5 miles were more likely to purchase bikes, the company could offer discounts on bikes for customers who have a short commute distance. This could attract more customers who are looking for a cost-effective mode of transportation.
 #### Focus on Female Customers:
 * Since female customers in clerical and skilled manual occupations were more likely to purchase bikes than male customers, the company could create marketing campaigns that target female customers. This could include highlighting bikes that are designed specifically for women, promoting the health and wellness benefits of cycling, and showcasing female cyclists in marketing materials.
 #### Improve Marketing Strategies in Regions with Low Sales:
